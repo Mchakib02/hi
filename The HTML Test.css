@@ -1,0 +1,16 @@
+body{
+    background-color:#32a852 ;
+    color: aqua;
+    
+}
+h1,h2{
+    text-decoration-color: #000000;
+    color: aqua;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    lighting-color: aqua;
+    text-shadow: 1.5em;
+    font-style: initial;
+}
